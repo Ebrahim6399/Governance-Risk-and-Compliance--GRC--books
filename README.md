@@ -15,3 +15,9 @@ An easy-to-read guide that breaks down the complexities of GRC into manageable a
 4. "Risk Management: A Very Short Introduction" by Baruch Fischhoff and John Kadvany
 Provides a concise introduction to the concepts and principles of risk management.
 [(Very Short Introductions 267) Fischhoff, Baruch_ Kadvany, John - Risk_ A Very Short Introduction-Oxford University Press (2011).pdf](https://github.com/user-attachments/files/15688535/Very.Short.Introductions.267.Fischhoff.Baruch_.Kadvany.John.-.Risk_.A.Very.Short.Introduction-Oxford.University.Press.2011.pdf)
+5. "The Essentials of Risk Management" by Michel Crouhy, Dan Galai, and Robert Mark
+An overview of key risk management concepts, with practical advice on how to manage various types of risk.
+[Michel Crouhy, Dan Galai, Robert Mark - The Essentials of Risk Management-McGraw-Hill (2014).pdf](https://github.com/user-attachments/files/15688630/Michel.Crouhy.Dan.Galai.Robert.Mark.-.The.Essentials.of.Risk.Management-McGraw-Hill.2014.pdf)
+6. "An Introduction to Corporate Governance and Risk Management" by Stephen Bloomfield
+A beginner-friendly guide to the principles of corporate governance and risk management.
+[(Absolute Essentials of Business and Economics) Stephen Bloomfield - Absolute Essentials of Corporate Governance-Routledge (2020).pdf](https://github.com/user-attachments/files/15688633/Absolute.Essentials.of.Business.and.Economics.Stephen.Bloomfield.-.Absolute.Essentials.of.Corporate.Governance-Routledge.2020.pdf)
