@@ -21,3 +21,10 @@ An overview of key risk management concepts, with practical advice on how to man
 6. "An Introduction to Corporate Governance and Risk Management" by Stephen Bloomfield
 A beginner-friendly guide to the principles of corporate governance and risk management.
 [(Absolute Essentials of Business and Economics) Stephen Bloomfield - Absolute Essentials of Corporate Governance-Routledge (2020).pdf](https://github.com/user-attachments/files/15688633/Absolute.Essentials.of.Business.and.Economics.Stephen.Bloomfield.-.Absolute.Essentials.of.Corporate.Governance-Routledge.2020.pdf)
+
+Intermediate Level
+1. "COSO Enterprise Risk Management: Establishing Effective Governance, Risk, and Compliance Processes" by Robert R. Moeller
+A deeper dive into the COSO framework, detailing how to implement effective GRC processes within an organization.
+[Robert R. Moeller - COSO Enterprise Risk Management_ Establishing Effective Governance, Risk, and Compliance Processes  -John Wiley & Sons (2011).pdf](https://github.com/user-attachments/files/15748308/Robert.R.Moeller.-.COSO.Enterprise.Risk.Management_.Establishing.Effective.Governance.Risk.and.Compliance.Processes.-John.Wiley.Sons.2011.pdf)
+2. "IT Governance: How Top Performers Manage IT Decision Rights for Superior Results" by Peter Weill and Jeanne Ross
+Focuses on the governance aspect of GRC, providing case studies and frameworks to enhance IT governance in organizations.[Peter Weill, Jeanne Ross - IT Governance_ How Top Performers Manage IT Decision Rights for Superior Results (2004)_compressed.pdf](https://github.com/user-attachments/files/15748408/Peter.Weill.Jeanne.Ross.-.IT.Governance_.How.Top.Performers.Manage.IT.Decision.Rights.for.Superior.Results.2004._compressed.pdf)
