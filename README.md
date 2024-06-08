@@ -28,3 +28,14 @@ A deeper dive into the COSO framework, detailing how to implement effective GRC 
 [Robert R. Moeller - COSO Enterprise Risk Management_ Establishing Effective Governance, Risk, and Compliance Processes  -John Wiley & Sons (2011).pdf](https://github.com/user-attachments/files/15748308/Robert.R.Moeller.-.COSO.Enterprise.Risk.Management_.Establishing.Effective.Governance.Risk.and.Compliance.Processes.-John.Wiley.Sons.2011.pdf)
 2. "IT Governance: How Top Performers Manage IT Decision Rights for Superior Results" by Peter Weill and Jeanne Ross
 Focuses on the governance aspect of GRC, providing case studies and frameworks to enhance IT governance in organizations.[Peter Weill, Jeanne Ross - IT Governance_ How Top Performers Manage IT Decision Rights for Superior Results (2004)_compressed.pdf](https://github.com/user-attachments/files/15748408/Peter.Weill.Jeanne.Ross.-.IT.Governance_.How.Top.Performers.Manage.IT.Decision.Rights.for.Superior.Results.2004._compressed.pdf)
+3. "Operational Risk Management: A Complete Guide to a Successful Operational Risk Framework" by Philippa X. Girling
+Provides detailed guidance on establishing and maintaining an effective operational risk management framework.
+[Philippa X. Girling - Operational Risk Management_ A Complete Guide to a Successful Operational Risk Framework-Wiley (2013).pdf](https://github.com/user-attachments/files/15748616/Philippa.X.Girling.-.Operational.Risk.Management_.A.Complete.Guide.to.a.Successful.Operational.Risk.Framework-Wiley.2013.pdf)
+4. "Governance, Risk, and Compliance Handbook for Oracle Applications" by Nigel King and Adil R Khan
+Offers practical advice on implementing GRC frameworks within Oracle applications, suitable for intermediate users.
+[Nigel King, Adil R Khan - Governance, Risk, and Compliance Handbook for Oracle Applications-Packt Publishing (2012).pdf](https://github.com/user-attachments/files/15748622/Nigel.King.Adil.R.Khan.-.Governance.Risk.and.Compliance.Handbook.for.Oracle.Applications-Packt.Publishing.2012.pdf)
+5. "Information Security Policies and Procedures: A Practitioner's Reference" by Dimitris N. Chorafas
+Everything you need to produce a comprehensive set of policies and procedures.
+[Dimitris N. Chorafas - Information Security Policies and Procedures_ A Practitioner's Reference-Auerbach Publications (1998).pdf](https://github.com/user-attachments/files/15748664/Dimitris.N.Chorafas.-.Information.Security.Policies.and.Procedures_.A.Practitioner.s.Reference-Auerbach.Publications.1998.pdf)
+
+
