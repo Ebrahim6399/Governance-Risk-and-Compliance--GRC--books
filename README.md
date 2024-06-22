@@ -38,4 +38,21 @@ Offers practical advice on implementing GRC frameworks within Oracle application
 Everything you need to produce a comprehensive set of policies and procedures.
 [Dimitris N. Chorafas - Information Security Policies and Procedures_ A Practitioner's Reference-Auerbach Publications (1998).pdf](https://github.com/user-attachments/files/15748664/Dimitris.N.Chorafas.-.Information.Security.Policies.and.Procedures_.A.Practitioner.s.Reference-Auerbach.Publications.1998.pdf)
 
+Advanced Level
+1. "Implementing Enterprise Risk Management: From Methods to Applications" by James Lam
+A more advanced exploration of enterprise risk management, providing detailed methodologies and applications for ERM.
+[(Wiley finance series) Lam, James - Implementing enterprise risk management _ from methods to applications-John Wiley & Sons (2017).pdf](https://github.com/user-attachments/files/15937827/Wiley.finance.series.Lam.James.-.Implementing.enterprise.risk.management._.from.methods.to.applications-John.Wiley.Sons.2017.pdf)
+2. "IT governance : an international guide to data security and ISO 27001/ISO 27002" by Alan Calder [Steve Watkins_ Alan Calder - IT governance _ an international guide to data security and ISO 27001_ISO 27002 (2020).pdf](https://github.com/user-attachments/files/15937869/Steve.Watkins_.Alan.Calder.-.IT.governance._.an.international.guide.to.data.security.and.ISO.27001_ISO.27002.2020.pdf)
+3. "Financial Management for It Services Complete Self-Assessment Guide" by Gerardus Blokdyk [Blokdyk, Gerardus - Financial Management for It Services Complete Self-Assessment Guide-Createspace Independent Publishing Platform (2017).pdf](https://github.com/user-attachments/files/15937879/Blokdyk.Gerardus.-.Financial.Management.for.It.Services.Complete.Self-Assessment.Guide-Createspace.Independent.Publishing.Platform.2017.pdf)
+4. "Operational Risk Management: Best Practices in the Financial Services Industry" by Ariane Chapelle
+Focuses on advanced operational risk management practices within the financial services sector, offering insights from leading experts in the field.
+[(Wiley finance series) Chapelle, Ariane - Operational risk management_ best practices in the financial services industry (2019).pdf](https://github.com/user-attachments/files/15937893/Wiley.finance.series.Chapelle.Ariane.-.Operational.risk.management_.best.practices.in.the.financial.services.industry.2019.pdf)
+5. "Corporate Governance: Principles, Policies, and Practices" by E. K. Satheesh, K. P. Muraleedharan A. C. Fernando
+A thorough exploration of corporate governance principles, policies, and practices, suitable for advanced professionals. 
+[E. K. Satheesh, K. P. Muraleedharan A. C. Fernando - Corporate Governance_ Principles, Policies and Practices-Pearson India (2018).pdf](https://github.com/user-attachments/files/15937929/E.K.Satheesh.K.P.Muraleedharan.A.C.Fernando.-.Corporate.Governance_.Principles.Policies.and.Practices-Pearson.India.2018.pdf)
+6. "Enterprise Risk Management: Today's Leading Research and Best Practices for Tomorrow's Executives" edited by John Fraser and Betty J. Simkins
+A collection of research and best practices in enterprise risk management, providing advanced insights and strategies. 
+[(Robert W. Kolb series in finance) Fraser, John R. S._Narvaez, Kristina_Simkins, Betty J - Implementing enterprise risk management_ case studies and best practices-Wiley (2015_2014).pdf](https://github.com/user-attachments/files/15937938/Robert.W.Kolb.series.in.finance.Fraser.John.R.S._Narvaez.Kristina_Simkins.Betty.J.-.Implementing.enterprise.risk.management_.case.studies.and.best.practices-Wiley.2015_2014.pdf)
+
+
 
